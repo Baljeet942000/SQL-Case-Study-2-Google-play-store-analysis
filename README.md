@@ -33,7 +33,7 @@
  
 * Questions answered during the analysis are as follows :
 
-  1.You're working as a market analyst for a mobile app development company. Your task is to identify the most promising categories (TOP 5) 
+  1.You're working as a market analyst for a mobile app development company. Your task is to identify the most promising categories (TOP5) 
     for launching new free apps based on their average ratings.
 
   2.As a business strategist for a mobile app company, your objective is to pinpoint the three categories that generate the most revenue 
