@@ -22,6 +22,7 @@
   | Android_ver | Android version supported  |
 
 * Steps followed to perform the analysis:
+  
   1.Did data cleaning using pandas.
   2.Dumped the cleaned dataset.
   3.Imported the cleaned dataset into MySQL workbench.
